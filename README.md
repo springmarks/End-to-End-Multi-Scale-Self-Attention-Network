@@ -16,10 +16,10 @@ To extract the features:
 - **Hardware**: GeForce RTX 4090 (Recommended for optimal performance)  
 
 ## Train
-Run experiment.py
+Run `experiment.py`
 
 ## test
-Run Result_sum_loss/test_dual.py
+Run `Result_sum_loss/test_dual.py`
   
 
   
