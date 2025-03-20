@@ -14,8 +14,12 @@ To extract the features:
 
 ## Dependencies  
 - **Hardware**: GeForce RTX 4090 (Recommended for optimal performance)  
-- **Software Dependencies**:  
-  - List of Python libraries or other tools (e.g., TensorFlow, PyTorch, etc.)
+
+## Train
+Run experiment.py
+
+## test
+Run Result_sum_loss/test_dual.py
   
 
   
