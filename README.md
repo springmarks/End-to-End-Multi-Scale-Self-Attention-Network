@@ -1,4 +1,4 @@
-#RSIE#
+**RSIE**
 ##[Title]
 Enhancing Synthetic Speech Detection with an End-to-End Multi-Scale Self-Attention Network
 ***
