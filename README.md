@@ -1,7 +1,7 @@
 # RSIE
 
 ## Citation
-If you use this code, please cite:  
+If you use this code, please cite artical:  
 **《Enhancing Synthetic Speech Detection with an End-to-End Multi-Scale Self-Attention Network》**  
 *The Visual Computer*, 2025.
 
