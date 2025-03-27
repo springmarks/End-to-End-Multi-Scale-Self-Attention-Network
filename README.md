@@ -15,8 +15,11 @@ To extract the features:
 2. Run `Feature_Engineering/LFCC/reload_data.py` to get LFCC features.
 
 ## Dependencies  
-- **Hardware**: GeForce RTX 4090 (Recommended for optimal performance)  
-
+- **Hardware**:
+- GeForce RTX 4090 (Recommended for optimal performance)
+- Python >= 3.8
+- PyTorch == 2.0.1 (with CUDA 11.7 if GPU enabled)
+- 
 ## Train
 Run `experiment.py`
 
