@@ -18,7 +18,8 @@ To extract the features:
 - **Hardware**:
 - GeForce RTX 4090 (Recommended for optimal performance)
 - Python >= 3.8
-- PyTorch == 2.0.1 (with CUDA 11.7 if GPU enabled)
+- PyTorch == 2.0.1
+- Cuda ==11.7
   
 ## Train
 Run `experiment.py`
